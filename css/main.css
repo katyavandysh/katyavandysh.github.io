@@ -718,7 +718,6 @@ input[type="reset"],
 input[type="button"] {
   display: inline-block;
   font-family: "montserrat-bold", sans-serif;
-  box-shadow: 0px 4px 20px #F8A728;
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
